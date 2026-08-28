@@ -19,8 +19,8 @@ and classical image processing.
 ## Results
 | Approach | Epochs | Test Accuracy |
 |---|---|---|
-| CNN from scratch | 8 | ~XX% (fill in your actual number) |
-| ResNet18 (transfer learning) | 3 | ~XX% (fill in your actual number) |
+| CNN from scratch | 8 | 69.81% |
+| ResNet18 (transfer learning) | 3 | 80.30% |
 
 ![Training Curves](training_curves.png)
 ![OpenCV Demo](opencv_demo.png)
